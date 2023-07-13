@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Widget.Theme.Assignment3.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+    <style name="myListPopupWindow" parent="Widget.MaterialComponents.PopupMenu.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/pop_up_style</item>
+    </style>
+</resources>

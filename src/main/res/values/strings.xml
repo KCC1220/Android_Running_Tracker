@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="walk">Walking</string>
+    <string name="run">Running</string>
+    <string name="dynamic">Dynamic</string>
+    <string name="drive">Driving</string>
+    <string name="cycling">Cycling</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="mode">Status</string>
+    <string name="previous">Previous Run:</string>
+    <string name="SharedPref">com.example.Assignment3</string>
+    <string name="saving">Saving</string>
+    <string name="rating">Rating</string>
+    <string name="comment">Comment: </string>
+    <string name="goal">Goal Achieved</string>
+    <string name="setup">Setup</string>
+    <string name="tracking">Tracking Mode</string>
+    <string name="distance">Distance Goal (m): </string>
+    <string name="default_goal">5000</string>
+    <string name="No_Data">No Data</string>
+    <string name="Database">Database</string>
+
+
+</resources>
